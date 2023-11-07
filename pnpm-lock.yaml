@@ -8,6 +8,9 @@ dependencies:
   '@anu-vue/preset-theme-default':
     specifier: ^0.15.2
     version: registry.npmmirror.com/@anu-vue/preset-theme-default@0.15.2
+  '@jingyuexing/utils':
+    specifier: ^0.1.8
+    version: 0.1.8
   anu-vue:
     specifier: ^0.15.2
     version: registry.npmmirror.com/anu-vue@0.15.2(@unocss/reset@0.41.2)(@vueuse/core@9.13.0)(vue-router@4.2.5)
@@ -255,6 +258,10 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@jingyuexing/utils@0.1.8:
+    resolution: {integrity: sha512-rdCHatkesviVKONzs1Li0Qw/H7qDzzKkjwlkbdf08tDv1EwnV66yrKhAiLWnuSlVk9J6HAakqMEfpPAF/T1Xmg==}
+    dev: false
 
   /@types/web-bluetooth@0.0.16:
     resolution: {integrity: sha512-oh8q2Zc32S6gd/j50GowEjKLoOVOwHP/bWVjKJInBwQqdOYMdPrf1oVlelTlyfFK3CKxL1uahMDAr+vy8T7yMQ==}
