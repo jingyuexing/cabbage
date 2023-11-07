@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@anu-vue/preset-theme-default": "^0.15.2",
+    "@jingyuexing/utils": "^0.1.8",
     "anu-vue": "^0.15.2",
     "axios": "^1.6.0",
     "pinia": "^2.1.7",
