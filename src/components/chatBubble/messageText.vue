@@ -6,7 +6,7 @@
     const props = defineProps<BubbleTextProps>()
 </script>
 <template>
-    <div class="message-text text-sm p-1 flex break-words" v-bind="props">
+    <div class="message-text text-sm text-initial py-4.5 flex break-words" v-bind="props">
         <slot></slot>
     </div>
 </template>
