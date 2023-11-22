@@ -13,9 +13,11 @@
   "dependencies": {
     "@anu-vue/preset-theme-default": "^0.15.2",
     "@jingyuexing/utils": "^0.1.8",
+    "@vee-validate/zod": "^4.11.8",
     "anu-vue": "^0.15.2",
     "axios": "^1.6.0",
     "pinia": "^2.1.7",
+    "vee-validate": "^4.11.8",
     "vue": "^3.3.4",
     "vue-router": "4",
     "zod": "^3.22.4"
@@ -25,7 +27,7 @@
     "@types/node": "^20.8.10",
     "@vitejs/plugin-vue": "^4.2.3",
     "typescript": "^5.0.2",
-    "unocss": "^0.57.2",
+    "unocss": "^0.53.5",
     "unplugin-vue-components": "^0.25.2",
     "vite": "^4.4.5",
     "vitest": "^0.34.6",
