@@ -35,6 +35,7 @@ export default defineConfig({
       "@views": resolve(__dirname, "./src/views"),
       "@components": resolve(__dirname, "./src/components"),
       "@store": resolve(__dirname, "./src/store"),
+      "@common": resolve(__dirname,"./src/common"),
     },
   },
 });
