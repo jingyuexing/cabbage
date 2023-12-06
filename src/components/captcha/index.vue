@@ -19,7 +19,6 @@ import { ref, onMounted, watch } from "vue";
 import { CaptchaEvent } from "./props"
 import { OauthStore } from "@store/oauth";
 const emits = defineEmits<CaptchaEvent>()
-
 const photo = ref<HTMLElement>()
 const count = ref(0)
 const pointContainer = ref<HTMLElement>()
