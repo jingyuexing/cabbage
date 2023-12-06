@@ -4,11 +4,6 @@ import { presetThemeDefault } from "@anu-vue/preset-theme-default";
 import { defineConfig, presetIcons, presetUno } from "unocss";
 
 export default defineConfig({
-  rules:[
-    ["text-initial",{
-      "text-align":"initial"
-    }]
-  ],
   presets: [
     presetUno(),
     presetIcons({
