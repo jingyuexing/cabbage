@@ -6,6 +6,8 @@
       "@components/*": ["src/components/*"],
       "@store/*": ["src/store/*"],
       "@view/*": ["src/view/*"],
+      "@hook/*": ["src/hook/*"],
+      "@common/*": ["src/common/*"],
     },
     "target": "ES2020",
     "useDefineForClassFields": true,

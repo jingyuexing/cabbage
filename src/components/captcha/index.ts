@@ -1,0 +1,1 @@
+export { default as Captcha } from "./index.vue"
