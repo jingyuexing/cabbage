@@ -2,6 +2,6 @@
     
 </template>
 
-<script>
+<script lang="ts" setup>
     
 </script>
